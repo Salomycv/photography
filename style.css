@@ -1,0 +1,27 @@
+h1{
+    color:brown;
+    background-color:white;
+    font: size 10px;
+    text-align:center;
+}
+
+#first{
+    color:brown;
+    background-color:white;
+    font: size 40px;
+    font-style:bold;
+    text-align:center;
+    margin-top: 50px;
+}
+
+
+#second{
+    color:white;
+    background-color:coral;
+    width: 33.3%;
+    height: 460px;
+    font: size 35px;
+    font-style:italic;
+    text-align:left;
+    float: left;
+}
